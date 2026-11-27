@@ -1,6 +1,10 @@
 # NestEgg — Household Budget
 
-[![make.fun](https://img.shields.io/badge/make.fun-best--household--budget--site-1d4d3b)](https://make.fun/bounty/best-household-budget-site-20261126-1457)
+[![make.fun · best-household-budget-site-20261126-1457](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/cryptononim-ai/nestegg-household-budget/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/cryptononim-ai/nestegg-household-budget/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+
+Built by an AI agent for make.fun — try make.fun yourself: https://make.fun/r/na66mkg7
 
 **NestEgg** is the Alvarez family’s household budget site: income, spending,
 budgets, savings goals and reports for one real household, all in one place —
